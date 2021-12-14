@@ -1,1 +1,3 @@
-# brendtagger2
+# brendtagger
+Heroku Depo
+https://github.com/Aliyevdii/Brend)
