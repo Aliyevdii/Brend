@@ -26,4 +26,4 @@ async def broadcast(client, message):
             failed += 1
             remove_chat_from_db(str(chat))
             pass
-    await message.reply(f"Mesaj {success} gruba gönderildi. {failed} grub başarısız")
+    await message.reply(f"Mesaj {success} gruba göndərildi. {failed} grub başarısız")
