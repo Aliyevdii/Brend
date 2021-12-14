@@ -1,7 +1,7 @@
 {
-  "name": "Luci Tagger Bot",
+  "name": "Nexus Tagger Bot",
   "logo":"https://telegra.ph/file/dfa517fd00b6aca5f7ac9.jpg",
-  "description": "Luci tagger bot sıze ucretsız uyelerınızı etıketleyen bı bottur.",
+  "description": "Nexus tagger bot pulsuz üzvlərinizi etiketləyən bir botdur.",
   "env": {
     "BOT_TOKEN": {
       "description": "bot token girin.",
